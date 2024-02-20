@@ -1,821 +1,938 @@
 [
     {
-        "label": "Forum Istanbul",
-        "position": { "lat": 41.0476232529079, "lng": 28.8968288735989 },
-        "category": "Mall",
-        "address": "Kocatepe, Pasa Cd, 34045 Bayrampasa\/istanbul, Turkiye",
-        "image_name": "forum_istanbul"
+      "address": "Kocatepe, Pasa Cd, 34045 Bayrampasa/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "forum_istanbul",
+      "label": "Forum Istanbul",
+      "lat": 41.0476232529079,
+      "lon": 28.8968288735989
+    },
+    {
+      "address": "Turgut ozal Mahallesi E-5 uzeri, Haramidere Yolu, 34903 Esenyurt, Turkiye",
+      "category": "Mall",
+      "image_name": "torium_avm",
+      "label": "Torium AVM",
+      "lat": 41.0052063528563,
+      "lon": 28.6880692286435
+    },
+    {
+      "address": "D100, celebi Mehmet Cad. 33A, 34515 Esenyurt/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "marmara_park_avm",
+      "label": "Marmara Park AVM",
+      "lat": 41.0094331282511,
+      "lon": 28.6601294865927
+    },
+    {
+      "address": "Yesilpınar, sht. Metin Kaya Sk. No: 11, 34065 Eyupsultan/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "vialand_avm",
+      "label": "Vialand AVM",
+      "lat": 41.0806648637189,
+      "lon": 28.9241860093798
+    },
+    {
+      "address": "Tesvikiye, Tesvikiye Cd. No:12, 34365 sisli/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "city's_nisantasi",
+      "label": "City's Nisantasi",
+      "lat": 41.0512133449167,
+      "lon": 28.9926500422848
+    },
+    {
+      "address": "Ziya Gokalp, Suleyman Demirel Blv No:7, 34490 ikitelli Osb/Basaksehir/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "mall_of_istanbul",
+      "label": "Mall of Istanbul",
+      "lat": 41.0639368758569,
+      "lon": 28.8078358814781
+    },
+    {
+      "address": "unalan, Libadiye Cd. No:88, 34700 uskudar/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "emaar_avm",
+      "label": "Emaar AVM",
+      "lat": 41.008535908455,
+      "lon": 29.0721286685811
+    },
+    {
+      "address": "Levazım, Koru Sok. Zorlu Center No:2, 34340 Besiktas/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "zorlu_center",
+      "label": "Zorlu Center",
+      "lat": 41.0702937291309,
+      "lon": 29.0186470715459
+    },
+    {
+      "address": "19 Mayıs, Buyukdere Cd. No:22, 34360 sisli/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "cevahir_avm",
+      "label": "Cevahir Avm",
+      "lat": 41.0637705603583,
+      "lon": 28.9919813417565
+    },
+    {
+      "address": "Esentepe, 34394 sisli/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "kanyon_avm",
+      "label": "Kanyon AVM",
+      "lat": 41.0809926436473,
+      "lon": 29.0127087986625
+    },
+    {
+      "address": "Pınar, Katar Cd No:11, 34460 Sarıyer/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "istinye_park",
+      "label": "Istinye Park",
+      "lat": 41.1140176012033,
+      "lon": 29.0339703843487
+    },
+    {
+      "address": "Ayazaga, Azerbaycan Cd. No: 3/C, 34396 Sarıyer/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "vadi_istanbul_avm",
+      "label": "Vadi Istanbul Avm",
+      "lat": 41.1094373911312,
+      "lon": 28.9860619761316
+    },
+    {
+      "address": "Osmaniye, cobancesme Kosuyolu Cd. No:3, 34100 Bakırkoy/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "marmara_forum_alisveris_merkezi",
+      "label": "Marmara Forum Alisveris Merkezi",
+      "lat": 41.0055288584165,
+      "lon": 28.8878122760488
     },
     {
-        "label": "Torium AVM",
-        "position": { "lat": 41.0052063528563, "lng": 28.6880692286435 },
-        "category": "Mall",
-        "address": "Turgut ozal Mahallesi E-5 uzeri, Haramidere Yolu, 34903 Esenyurt, Turkiye",
-        "image_name": "torium_avm"
+      "address": "iskenderpasa, Adnan Menderes Blv. No:2, 34080 Fatih/istanbul, Turkiye",
+      "category": "Mall",
+      "image_name": "historia_avm",
+      "label": "Historia AVM",
+      "lat": 41.0156448471475,
+      "lon": 28.9453953256055
     },
     {
-        "label": "Marmara Park AVM",
-        "position": { "lat": 41.0094331282511, "lng": 28.6601294865927 },
-        "category": "Mall",
-        "address": "D100, celebi Mehmet Cad. 33A, 34515 Esenyurt\/istanbul, Turkiye",
-        "image_name": "marmara_park_avm"
+      "address": "izzetpasa, Abide-i Hurriyet Cd No:166, 34381 sisli/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "istanbul_florence_nightingale_hospital",
+      "label": "İstanbul Florence Nightingale Hospital",
+      "lat": 41.0693684820495,
+      "lon": 28.9835392414814
     },
     {
-        "label": "Vialand AVM",
-        "position": { "lat": 41.0806648637189, "lng": 28.9241860093798 },
-        "category": "Mall",
-        "address": "Yesilpınar, sht. Metin Kaya Sk. No: 11, 34065 Eyupsultan\/istanbul, Turkiye",
-        "image_name": "vialand_avm"
+      "address": "Ayazaga Mahallesi, Kemerburgaz Caddesi, Vadistanbul Park Etabı, 7F Blok, 34396 Sarıyer/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "liv_hospital_vadistanbul",
+      "label": "Liv Hospital Vadistanbul",
+      "lat": 41.1140748682812,
+      "lon": 28.9875727244298
     },
     {
-        "label": "City's Nisantasi",
-        "position": { "lat": 41.0512133449167, "lng": 28.9926500422848 },
-        "category": "Mall",
-        "address": "Tesvikiye, Tesvikiye Cd. No:12, 34365 sisli\/istanbul, Turkiye",
-        "image_name": "city's_nisantasi"
+      "address": "Zeytinlik, Halit Ziya Usaklıgil Cd. No: 1, 34140 Bakırkoy/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "acibadem_bakirkoy_hospital",
+      "label": "Acibadem Bakirkoy Hospital",
+      "lat": 40.983694828476,
+      "lon": 28.8731447732476
     },
     {
-        "label": "Mall of Istanbul",
-        "position": { "lat": 41.0639368758569, "lng": 28.8078358814781 },
-        "category": "Mall",
-        "address": "Ziya Gokalp, Suleyman Demirel Blv No:7, 34490 ikitelli Osb\/Basaksehir\/istanbul, Turkiye",
-        "image_name": "mall_of_istanbul"
+      "address": "Etiler, Etiler Mahallesi Hisar ustu Nispetiye Caddesi, Yanarsu Sk. No:1, 34337 Besiktas/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "dunyagoz_etiler_hospital",
+      "label": "Dunyagoz Etiler Hospital",
+      "lat": 41.0858003721508,
+      "lon": 29.0365655459451
     },
     {
-        "label": "Emaar AVM",
-        "position": { "lat": 41.008535908455, "lng": 29.0721286685811 },
-        "category": "Mall",
-        "address": "unalan, Libadiye Cd. No:88, 34700 uskudar\/istanbul, Turkiye",
-        "image_name": "emaar_avm"
+      "address": "Bahcelievler Merkez, Adnan Kahveci Blv. No:2, 34180 Bahcelievler/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "medicana_bahcelievler_hospital",
+      "label": "Medicana Bahcelievler Hospital",
+      "lat": 41.0339333888207,
+      "lon": 28.8849984392407
     },
     {
-        "label": "Zorlu Center",
-        "position": { "lat": 41.0702937291309, "lng": 29.0186470715459 },
-        "category": "Mall",
-        "address": "Levazım, Koru Sok. Zorlu Center No:2, 34340 Besiktas\/istanbul, Turkiye",
-        "image_name": "zorlu_center"
+      "address": "Levent, Yeni Sulun Sk. No:13 D:3, 34330 Besiktas/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "estethica_levent_hospital",
+      "label": "Estethica Levent Hospital",
+      "lat": 41.1050144907009,
+      "lon": 29.020241663439
     },
     {
-        "label": "Cevahir Avm",
-        "position": { "lat": 41.0637705603583, "lng": 28.9919813417565 },
-        "category": "Mall",
-        "address": "19 Mayıs, Buyukdere Cd. No:22, 34360 sisli\/istanbul, Turkiye",
-        "image_name": "cevahir_avm"
+      "address": "Kaptan Pasa, Kaptan Pasa Mah. Piyale Pasa Bulv, Okmeydanı Cd. No: 4, 34384 sisli/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "memorial_sisli_hospital",
+      "label": "Memorial Sisli Hospital",
+      "lat": 41.0740060164037,
+      "lon": 28.97486978755
     },
     {
-        "label": "Kanyon AVM",
-        "position": { "lat": 41.0809926436473, "lng": 29.0127087986625 },
-        "category": "Mall",
-        "address": "Esentepe, 34394 sisli\/istanbul, Turkiye",
-        "image_name": "kanyon_avm"
+      "address": "Merkez, Kaptanpasa Mahallesi Okmeydanı Kavsagı, Darulaceze Cd. No:14, 34384 Okmeydanı sisli/sisli/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "kolan_international_hospital",
+      "label": "Kolan International Hospital",
+      "lat": 41.0755041421945,
+      "lon": 28.975725468172
     },
     {
-        "label": "Istinye Park",
-        "position": { "lat": 41.1140176012033, "lng": 29.0339703843487 },
-        "category": "Mall",
-        "address": "Pınar, Katar Cd No:11, 34460 Sarıyer\/istanbul, Turkiye",
-        "image_name": "istinye_park"
+      "address": "Etfal Hastanesi, Halaskargazi Cd., 34371 sisli/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "sisli_hamidiye_etfal_hospital",
+      "label": "Sisli Hamidiye Etfal Hospital",
+      "lat": 41.0605035041032,
+      "lon": 28.9898690236105
     },
     {
-        "label": "Vadi Istanbul Avm",
-        "position": { "lat": 41.1094373911312, "lng": 28.9860619761316 },
-        "category": "Mall",
-        "address": "Ayazaga, Azerbaycan Cd. No: 3\/C, 34396 Sarıyer\/istanbul, Turkiye",
-        "image_name": "vadi_istanbul_avm"
+      "address": "Cerrahpasa, Koca Mustafapasa Cd. No:53, 34098 Fatih/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "cerrahpasa_medical_faculty_hospital",
+      "label": "Cerrahpasa Medical Faculty Hospital",
+      "lat": 41.0067262037293,
+      "lon": 28.9398554955882
     },
     {
-        "label": "Marmara Forum Alisveris Merkezi",
-        "position": { "lat": 41.0055288584165, "lng": 28.8878122760488 },
-        "category": "Mall",
-        "address": "Osmaniye, cobancesme Kosuyolu Cd. No:3, 34100 Bakırkoy\/istanbul, Turkiye",
-        "image_name": "marmara_forum_alisveris_merkezi"
+      "address": "Kaptan Pasa, SSK Okmeydanı Hst. No:25, 34384 sisli/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "prof._dr._cemil_tascioglu_city_hospital",
+      "label": "Prof. Dr. Cemil Tascioglu City Hospital",
+      "lat": 41.071075386609,
+      "lon": 28.9737095982238
     },
     {
-        "label": "Historia AVM",
-        "position": { "lat": 41.0156448471475, "lng": 28.9453953256055 },
-        "category": "Mall",
-        "address": "iskenderpasa, Adnan Menderes Blv. No:2, 34080 Fatih\/istanbul, Turkiye",
-        "image_name": "historia_avm"
+      "address": "Basaksehir, Olimpiyat Bulvarı Yolu, 34480 Basaksehir/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "basaksehir_cam_and_sakura_city_hospital",
+      "label": "Basaksehir Cam and Sakura City Hospital",
+      "lat": 41.1087978174953,
+      "lon": 28.7797394701299
     },
     {
-        "label": "İstanbul Florence Nightingale Hospital",
-        "position": { "lat": 41.0693684820495, "lng": 28.9835392414814 },
-        "category": "Hospital",
-        "address": "izzetpasa, Abide-i Hurriyet Cd No:166, 34381 sisli\/istanbul, Turkiye",
-        "image_name": "istanbul_florence_nightingale_hospital"
+      "address": "Bahcelievler Mahallesi, E-5 Karayolu / Kultur Sok No:1, 34180 Bahcelievler/istanbul, Turkiye",
+      "category": "Hospital",
+      "image_name": "medical_park_bahcelievler_hospital",
+      "label": "Medical Park Bahcelievler Hospital",
+      "lat": 40.997893174797,
+      "lon": 28.8646020507509
     },
     {
-        "label": "Liv Hospital Vadistanbul",
-        "position": { "lat": 41.1140748682812, "lng": 28.9875727244298 },
-        "category": "Hospital",
-        "address": "Ayazaga Mahallesi, Kemerburgaz Caddesi, Vadistanbul Park Etabı, 7F Blok, 34396 Sarıyer\/istanbul, Turkiye",
-        "image_name": "liv_hospital_vadistanbul"
+      "address": "Beyazıt, 34452 Fatih/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "istanbul_university",
+      "label": "Istanbul University",
+      "lat": 41.0129759679498,
+      "lon": 28.9617600342938
     },
     {
-        "label": "Acibadem Bakirkoy Hospital",
-        "position": { "lat": 40.983694828476, "lng": 28.8731447732476 },
-        "category": "Hospital",
-        "address": "Zeytinlik, Halit Ziya Usaklıgil Cd. No: 1, 34140 Bakırkoy\/istanbul, Turkiye",
-        "image_name": "acibadem_bakirkoy_hospital"
+      "address": "Maslak, 34485 Sarıyer/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "istanbul_technical_university",
+      "label": "Istanbul Technical University",
+      "lat": 41.1098496338396,
+      "lon": 29.0252569954862
     },
     {
-        "label": "Dunyagoz Etiler Hospital",
-        "position": { "lat": 41.0858003721508, "lng": 29.0365655459451 },
-        "category": "Hospital",
-        "address": "Etiler, Etiler Mahallesi Hisar ustu Nispetiye Caddesi, Yanarsu Sk. No:1, 34337 Besiktas\/istanbul, Turkiye",
-        "image_name": "dunyagoz_etiler_hospital"
+      "address": "Bebek, 34342 Besiktas/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "bogazici_university",
+      "label": "Bogazici University",
+      "lat": 41.08508027016,
+      "lon": 29.0521090489705
     },
     {
-        "label": "Medicana Bahcelievler Hospital",
-        "position": { "lat": 41.0339333888207, "lng": 28.8849984392407 },
-        "category": "Hospital",
-        "address": "Bahcelievler Merkez, Adnan Kahveci Blv. No:2, 34180 Bahcelievler\/istanbul, Turkiye",
-        "image_name": "medicana_bahcelievler_hospital"
+      "address": "cifte Havuzlar, YTu-Davutpasa Kampusu, 34220 Esenler/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "yildiz_technical_university_davutpasa_campus",
+      "label": "Yildiz Technical University Davutpasa Campus",
+      "lat": 41.0223714732932,
+      "lon": 28.8976484974981
     },
     {
-        "label": "Estethica Levent Hospital",
-        "position": { "lat": 41.1050144907009, "lng": 29.020241663439 },
-        "category": "Hospital",
-        "address": "Levent, Yeni Sulun Sk. No:13 D:3, 34330 Besiktas\/istanbul, Turkiye",
-        "image_name": "estethica_levent_hospital"
+      "address": "Kucuk Ayasofya Mahallesi, Sultan Ahmet Parkı No:2, 34122 Fatih/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "marmara_university",
+      "label": "Marmara University",
+      "lat": 41.0064831476125,
+      "lon": 28.9740657292963
     },
     {
-        "label": "Memorial Sisli Hospital",
-        "position": { "lat": 41.0740060164037, "lng": 28.97486978755 },
-        "category": "Hospital",
-        "address": "Kaptan Pasa, Kaptan Pasa Mah. Piyale Pasa Bulv, Okmeydanı Cd. No: 4, 34384 sisli\/istanbul, Turkiye",
-        "image_name": "memorial_sisli_hospital"
+      "address": "Rumelifeneri, Sarıyer Rumeli Feneri Yolu, 34450 Sarıyer/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "koc_university",
+      "label": "Koc University",
+      "lat": 41.2147575902282,
+      "lon": 29.0698319017234
     },
     {
-        "label": "Kolan International Hospital",
-        "position": { "lat": 41.0755041421945, "lng": 28.975725468172 },
-        "category": "Hospital",
-        "address": "Merkez, Kaptanpasa Mahallesi Okmeydanı Kavsagı, Darulaceze Cd. No:14, 34384 Okmeydanı sisli\/sisli\/istanbul, Turkiye",
-        "image_name": "kolan_international_hospital"
+      "address": "Topkapı, Adnan Menderes Blv., 34093 Fatih/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "bezmialem_university",
+      "label": "Bezmialem University",
+      "lat": 41.0198251498062,
+      "lon": 28.9351827707718
     },
     {
-        "label": "Sisli Hamidiye Etfal Hospital",
-        "position": { "lat": 41.0605035041032, "lng": 28.9898690236105 },
-        "category": "Hospital",
-        "address": "Etfal Hastanesi, Halaskargazi Cd., 34371 sisli\/istanbul, Turkiye",
-        "image_name": "sisli_hamidiye_etfal_hospital"
+      "address": "Nisantepe, Orman Sk. No:13, 34794 cekmekoy/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "ozyegin_university",
+      "label": "Ozyegin University",
+      "lat": 41.0359855248692,
+      "lon": 29.2560653469741
     },
     {
-        "label": "Cerrahpasa Medical Faculty Hospital",
-        "position": { "lat": 41.0067262037293, "lng": 28.9398554955882 },
-        "category": "Hospital",
-        "address": "Cerrahpasa, Koca Mustafapasa Cd. No:53, 34098 Fatih\/istanbul, Turkiye",
-        "image_name": "cerrahpasa_medical_faculty_hospital"
+      "address": "Kayısdagı, inonu Mahallesi, Kayısdagı Cd., 34755 Atasehir/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "yeditepe_university",
+      "label": "Yeditepe University",
+      "lat": 40.9721657091683,
+      "lon": 29.1521547808168
     },
     {
-        "label": "Prof. Dr. Cemil Tascioglu City Hospital",
-        "position": { "lat": 41.071075386609, "lng": 28.9737095982238 },
-        "category": "Hospital",
-        "address": "Kaptan Pasa, SSK Okmeydanı Hst. No:25, 34384 sisli\/istanbul, Turkiye",
-        "image_name": "prof._dr._cemil_tascioglu_city_hospital"
+      "address": "Yıldız, cıragan Cd., 34349 Besiktas/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "bahcesehir_university",
+      "label": "Bahcesehir University",
+      "lat": 41.0431311116589,
+      "lon": 29.0099978224053
     },
     {
-        "label": "Basaksehir Cam and Sakura City Hospital",
-        "position": { "lat": 41.1087978174953, "lng": 28.7797394701299 },
-        "category": "Hospital",
-        "address": "Basaksehir, Olimpiyat Bulvarı Yolu, 34480 Basaksehir\/istanbul, Turkiye",
-        "image_name": "basaksehir_cam_and_sakura_city_hospital"
+      "address": "Dumlupınar D100 Karayolu No:98, 34720 Kadıkoy/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "istanbul_medeniyet_university",
+      "label": "Istanbul Medeniyet University",
+      "lat": 40.9952265339792,
+      "lon": 29.0642903696859
     },
     {
-        "label": "Medical Park Bahcelievler Hospital",
-        "position": { "lat": 40.997893174797, "lng": 28.8646020507509 },
-        "category": "Hospital",
-        "address": "Bahcelievler Mahallesi, E-5 Karayolu \/ Kultur Sok No:1, 34180 Bahcelievler\/istanbul, Turkiye",
-        "image_name": "medical_park_bahcelievler_hospital"
+      "address": "Emniyettepe, Kazım Karabekir Cd. No: 2/13, 34060 Eyupsultan/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "istanbul_bilgi_university",
+      "label": "Istanbul Bilgi University",
+      "lat": 41.0687126231919,
+      "lon": 28.9470790649151
     },
     {
-        "label": "Istanbul University",
-        "position": { "lat": 41.0129759679498, "lng": 28.9617600342938 },
-        "category": "Education",
-        "address": "Beyazıt, 34452 Fatih\/istanbul, Turkiye",
-        "image_name": "istanbul_university"
+      "address": "Kuloglu, istiklal Cd. No:159, 34430 Beyoglu/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "galatasaray_highschool",
+      "label": "Galatasaray Highschool",
+      "lat": 41.0340267855042,
+      "lon": 28.979773121697
     },
     {
-        "label": "Istanbul Technical University",
-        "position": { "lat": 41.1098496338396, "lng": 29.0252569954862 },
-        "category": "Education",
-        "address": "Maslak, 34485 Sarıyer\/istanbul, Turkiye",
-        "image_name": "istanbul_technical_university"
+      "address": "Hobyar, 4, Turk Ocagı Cd., 34112 Fatih/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "istanbul_erkek_highschool",
+      "label": "Istanbul Erkek Highschool",
+      "lat": 41.0126176086793,
+      "lon": 28.9738814077709
     },
     {
-        "label": "Bogazici University",
-        "position": { "lat": 41.08508027016, "lng": 29.0521090489705 },
-        "category": "Education",
-        "address": "Bebek, 34342 Besiktas\/istanbul, Turkiye",
-        "image_name": "bogazici_university"
+      "address": "Ortakoy, cıragan Cd. No:40, 34349 Besiktas/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "kabatas_boys'_high_school",
+      "label": "Kabatas Boys' High School",
+      "lat": 41.0466380638074,
+      "lon": 29.0228257063574
     },
     {
-        "label": "Yildiz Technical University Davutpasa Campus",
-        "position": { "lat": 41.0223714732932, "lng": 28.8976484974981 },
-        "category": "Education",
-        "address": "cifte Havuzlar, YTu-Davutpasa Kampusu, 34220 Esenler\/istanbul, Turkiye",
-        "image_name": "yildiz_technical_university_davutpasa_campus"
+      "address": "Egitim, Sarayonu Cd. No.1, 34722 Kadıkoy/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "ataturk_high_school_of_science",
+      "label": "Ataturk High School of Science",
+      "lat": 40.989300381772,
+      "lon": 29.052220871151
     },
     {
-        "label": "Marmara University",
-        "position": { "lat": 41.0064831476125, "lng": 28.9740657292963 },
-        "category": "Education",
-        "address": "Kucuk Ayasofya Mahallesi, Sultan Ahmet Parkı No:2, 34122 Fatih\/istanbul, Turkiye",
-        "image_name": "marmara_university"
+      "address": "Molla Gurani, Mahallesi, Turgut ozal Millet Cd No:114, 34093 Fatih/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "capa_science_high_school",
+      "label": "Capa Science High School",
+      "lat": 41.014554321508,
+      "lon": 28.9360027557035
     },
     {
-        "label": "Koc University",
-        "position": { "lat": 41.2147575902282, "lng": 29.0698319017234 },
-        "category": "Education",
-        "address": "Rumelifeneri, Sarıyer Rumeli Feneri Yolu, 34450 Sarıyer\/istanbul, Turkiye",
-        "image_name": "koc_university"
+      "address": "Yarımburgaz, istanbul Cad., 34303 Kucukcekmece/istanbul - Avrupa, Turkiye",
+      "category": "Education",
+      "image_name": "altinsehir_ilkogretim_okulu",
+      "label": "Altinsehir Ilkogretim Okulu",
+      "lat": 41.0600758319751,
+      "lon": 28.749346958543
     },
     {
-        "label": "Bezmialem University",
-        "position": { "lat": 41.0198251498062, "lng": 28.9351827707718 },
-        "category": "Education",
-        "address": "Topkapı, Adnan Menderes Blv., 34093 Fatih\/istanbul, Turkiye",
-        "image_name": "bezmialem_university"
+      "address": "Atakent, 4. Cd. 24/1, 34307 Kucukcekmece/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "ihsan_international_school",
+      "label": "Ihsan International School",
+      "lat": 41.0520200141651,
+      "lon": 28.7748434205934
     },
     {
-        "label": "Ozyegin University",
-        "position": { "lat": 41.0359855248692, "lng": 29.2560653469741 },
-        "category": "Education",
-        "address": "Nisantepe, Orman Sk. No:13, 34794 cekmekoy\/istanbul, Turkiye",
-        "image_name": "ozyegin_university"
+      "address": "Atakent, 221. Sk No:70/1, 34307 Kucukcekmece/istanbul, Turkiye",
+      "category": "Education",
+      "image_name": "meliksah_ortaokulu",
+      "label": "Meliksah ortaokulu",
+      "lat": 41.0443083252404,
+      "lon": 28.770224506536
     },
     {
-        "label": "Yeditepe University",
-        "position": { "lat": 40.9721657091683, "lng": 29.1521547808168 },
-        "category": "Education",
-        "address": "Kayısdagı, inonu Mahallesi, Kayısdagı Cd., 34755 Atasehir\/istanbul, Turkiye",
-        "image_name": "yeditepe_university"
+      "address": "Levent, Hacı Adil Caddesi, Palmiye Sk. No:1 1, 34330 Besiktas/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "sans_restaurant",
+      "label": "Sans Restaurant",
+      "lat": 41.0814724427703,
+      "lon": 29.0148966092858
     },
     {
-        "label": "Bahcesehir University",
-        "position": { "lat": 41.0431311116589, "lng": 29.0099978224053 },
-        "category": "Education",
-        "address": "Yıldız, cıragan Cd., 34349 Besiktas\/istanbul, Turkiye",
-        "image_name": "bahcesehir_university"
+      "address": "Kemankes Karamustafa Pasa, JW Marriott Istanbul Bosphorus, Kemankes Cd. No:49, 34425 Beyoglu/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "octo",
+      "label": "Octo",
+      "lat": 41.0269419801328,
+      "lon": 28.9787155698119
     },
     {
-        "label": "Istanbul Medeniyet University",
-        "position": { "lat": 40.9952265339792, "lng": 29.0642903696859 },
-        "category": "Education",
-        "address": "Dumlupınar D100 Karayolu No:98, 34720 Kadıkoy\/istanbul, Turkiye",
-        "image_name": "istanbul_medeniyet_university"
+      "address": "omer Avni, inonu Cd. No:50, 34427 Beyoglu/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "topaz_istanbul",
+      "label": "Topaz Istanbul",
+      "lat": 41.0383285055457,
+      "lon": 28.9933693887097
     },
     {
-        "label": "Istanbul Bilgi University",
-        "position": { "lat": 41.0687126231919, "lng": 28.9470790649151 },
-        "category": "Education",
-        "address": "Emniyettepe, Kazım Karabekir Cd. No: 2\/13, 34060 Eyupsultan\/istanbul, Turkiye",
-        "image_name": "istanbul_bilgi_university"
+      "address": "Ulus, Ahmet Adnan Saygun Cd. No:71/1, 34340 Besiktas/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "ulus_29",
+      "label": "Ulus 29",
+      "lat": 41.0647198843502,
+      "lon": 29.0321163597737
     },
     {
-        "label": "Galatasaray Highschool",
-        "position": { "lat": 41.0340267855042, "lng": 28.979773121697 },
-        "category": "Education",
-        "address": "Kuloglu, istiklal Cd. No:159, 34430 Beyoglu\/istanbul, Turkiye",
-        "image_name": "galatasaray_highschool"
+      "address": "Kemankes Kara Mustafa Pasa Mah, Kemankes Cd. No:57-59, 34425 Beyoglu/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "murver_restaurant",
+      "label": "Murver Restaurant",
+      "lat": 41.0248641293167,
+      "lon": 28.980143730826
     },
     {
-        "label": "Istanbul Erkek Highschool",
-        "position": { "lat": 41.0126176086793, "lng": 28.9738814077709 },
-        "category": "Education",
-        "address": "Hobyar, 4, Turk Ocagı Cd., 34112 Fatih\/istanbul, Turkiye",
-        "image_name": "istanbul_erkek_highschool"
+      "address": "Arapcamii Mahı, Bankalar Cd. No:11, 34420, 34421 Beyoglu/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "neolokal",
+      "label": "Neolokal",
+      "lat": 41.0241194979048,
+      "lon": 28.9734670732947
     },
     {
-        "label": "Kabatas Boys' High School",
-        "position": { "lat": 41.0466380638074, "lng": 29.0228257063574 },
-        "category": "Education",
-        "address": "Ortakoy, cıragan Cd. No:40, 34349 Besiktas\/istanbul, Turkiye",
-        "image_name": "kabatas_boys'_high_school"
+      "address": "Yıldız, cıragan Cd. No:44, 34347 Besiktas/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "feriye_restaurant",
+      "label": "Feriye Restaurant",
+      "lat": 41.0474695003066,
+      "lon": 29.0243567368657
     },
     {
-        "label": "Ataturk High School of Science",
-        "position": { "lat": 40.989300381772, "lng": 29.052220871151 },
-        "category": "Education",
-        "address": "Egitim, Sarayonu Cd. No.1, 34722 Kadıkoy\/istanbul, Turkiye",
-        "image_name": "ataturk_high_school_of_science"
+      "address": "Harbiye, Mim Kemal oke Cd. No:35, 34365 sisli/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "spago_by_wolfgang_puck",
+      "label": "Spago by Wolfgang Puck",
+      "lat": 41.0480724383033,
+      "lon": 28.9928286866388
     },
     {
-        "label": "Capa Science High School",
-        "position": { "lat": 41.014554321508, "lng": 28.9360027557035 },
-        "category": "Education",
-        "address": "Molla Gurani, Mahallesi, Turgut ozal Millet Cd No:114, 34093 Fatih\/istanbul, Turkiye",
-        "image_name": "capa_science_high_school"
+      "address": "Rumeli Hisarı, Yahya Kemal Cd. No:4, 34470 Sarıyer/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "kiss_the_frog",
+      "label": "Kiss The Frog",
+      "lat": 41.088633747505924,
+      "lon": 29.056205004550847
     },
     {
-        "label": "Altinsehir Ilkogretim Okulu",
-        "position": { "lat": 41.0600758319751, "lng": 28.749346958543 },
-        "category": "Education",
-        "address": "Yarımburgaz, istanbul Cad., 34303 Kucukcekmece\/istanbul - Avrupa, Turkiye",
-        "image_name": "altinsehir_ilkogretim_okulu"
+      "address": "Harbiye, Macka Palas, Macka Cd. No:33/B, 34367 sisli/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "nusr_et_steakhouse",
+      "label": "Nusr Et Steakhouse",
+      "lat": 41.0500020766643,
+      "lon": 28.9930639743148
     },
     {
-        "label": "Ihsan International School",
-        "position": { "lat": 41.0520200141651, "lng": 28.7748434205934 },
-        "category": "Education",
-        "address": "Atakent, 4. Cd. 24\/1, 34307 Kucukcekmece\/istanbul, Turkiye",
-        "image_name": "ihsan_international_school"
+      "address": "Nispetiye Caddesi, Lavinya Sk. No: 2, 34340 Besiktas/istanbul, Turkiye",
+      "category": "Restaurants",
+      "image_name": "cznburak",
+      "label": "CznBurak",
+      "lat": 41.080718181825,
+      "lon": 29.0183546581472
     },
     {
-        "label": "Meliksah ortaokulu",
-        "position": { "lat": 41.0443083252404, "lng": 28.770224506536 },
-        "category": "Education",
-        "address": "Atakent, 221. Sk No:70\/1, 34307 Kucukcekmece\/istanbul, Turkiye",
-        "image_name": "meliksah_ortaokulu"
+      "address": "Cihannuma, Saray Cd No:5, 34353 Besiktas/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "conrad_istanbul_bosphorus",
+      "label": "Conrad Istanbul Bosphorus",
+      "lat": 41.0483584703725,
+      "lon": 29.0092474423249
     },
     {
-        "label": "Sans Restaurant",
-        "position": { "lat": 41.0814724427703, "lng": 29.0148966092858 },
-        "category": "Restaurants",
-        "address": "Levent, Hacı Adil Caddesi, Palmiye Sk. No:1 1, 34330 Besiktas\/istanbul, Turkiye",
-        "image_name": "sans_restaurant"
+      "address": "Visnezade, Acısu Sokagi No:19, 34357 Besiktas/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "swissotel_the_bosphorus_istanbul",
+      "label": "Swissotel The Bosphorus Istanbul",
+      "lat": 41.0420710409361,
+      "lon": 28.9977036075985
     },
     {
-        "label": "Octo",
-        "position": { "lat": 41.0269419801328, "lng": 28.9787155698119 },
-        "category": "Restaurants",
-        "address": "Kemankes Karamustafa Pasa, JW Marriott Istanbul Bosphorus, Kemankes Cd. No:49, 34425 Beyoglu\/istanbul, Turkiye",
-        "image_name": "octo"
+      "address": "19 Mayıs, 19 Mayıs Cd. Street No 2, 34360 sisli/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "radisson_blu_hotel",
+      "label": "Radisson Blu Hotel",
+      "lat": 41.0654863889257,
+      "lon": 28.9868269476093
     },
     {
-        "label": "Topaz Istanbul",
-        "position": { "lat": 41.0383285055457, "lng": 28.9933693887097 },
-        "category": "Restaurants",
-        "address": "omer Avni, inonu Cd. No:50, 34427 Beyoglu\/istanbul, Turkiye",
-        "image_name": "topaz_istanbul"
+      "address": "Merkez, Silahsor Cd. No:42, 34381 sisli/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "hilton_istanbul_bomonti",
+      "label": "Hilton Istanbul Bomonti",
+      "lat": 41.0618413008239,
+      "lon": 28.9789379056639
     },
     {
-        "label": "Ulus 29",
-        "position": { "lat": 41.0647198843502, "lng": 29.0321163597737 },
-        "category": "Restaurants",
-        "address": "Ulus, Ahmet Adnan Saygun Cd. No:71\/1, 34340 Besiktas\/istanbul, Turkiye",
-        "image_name": "ulus_29"
+      "address": "Emin Sinan, Piyer Loti Cd. No:30, 34126 Fatih/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "ajwa_sultanahmet",
+      "label": "AJWA Sultanahmet",
+      "lat": 41.0088220062125,
+      "lon": 28.9684398155033
     },
     {
-        "label": "Murver Restaurant",
-        "position": { "lat": 41.0248641293167, "lng": 28.980143730826 },
-        "category": "Restaurants",
-        "address": "Kemankes Kara Mustafa Pasa Mah, Kemankes Cd. No:57-59, 34425 Beyoglu\/istanbul, Turkiye",
-        "image_name": "murver_restaurant"
+      "address": "Harbiye, Taskısla Cd. No:1, 34367 sisli/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "grand_hyatt_istanbul",
+      "label": "Grand Hyatt Istanbul",
+      "lat": 41.0460378537306,
+      "lon": 28.991366151187
     },
     {
-        "label": "Neolokal",
-        "position": { "lat": 41.0241194979048, "lng": 28.9734670732947 },
-        "category": "Restaurants",
-        "address": "Arapcamii Mahı, Bankalar Cd. No:11, 34420, 34421 Beyoglu\/istanbul, Turkiye",
-        "image_name": "neolokal"
+      "address": "Bozkurt, Dolapdere Cd. No:161, 34375 sisli/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "crowne_plaza_istanbul",
+      "label": "Crowne Plaza Istanbul",
+      "lat": 41.0558991695374,
+      "lon": 28.9868241484401
     },
     {
-        "label": "Feriye Restaurant",
-        "position": { "lat": 41.0474695003066, "lng": 29.0243567368657 },
-        "category": "Restaurants",
-        "address": "Yıldız, cıragan Cd. No:44, 34347 Besiktas\/istanbul, Turkiye",
-        "image_name": "feriye_restaurant"
+      "address": "Suzer Plaza Askerocagi Caddessi, Elmadag Cd. No:6, 34367 sisli/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "the_ritz-carlton",
+      "label": "The Ritz-Carlton",
+      "lat": 41.0402432445864,
+      "lon": 28.9922111577251
     },
     {
-        "label": "Spago by Wolfgang Puck",
-        "position": { "lat": 41.0480724383033, "lng": 28.9928286866388 },
-        "category": "Restaurants",
-        "address": "Harbiye, Mim Kemal oke Cd. No:35, 34365 sisli\/istanbul, Turkiye",
-        "image_name": "spago_by_wolfgang_puck"
+      "address": "Hacıahmet, Kurtulus Deresi Cd. No:23, 34440 Beyoglu/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "sheraton_istanbul_city_center",
+      "label": "Sheraton Istanbul City Center",
+      "lat": 41.043069342654,
+      "lon": 28.9759878857917
     },
     {
-        "label": "Kiss The Frog",
-        "position": { "lat": 41.088633747505924, "lng": 29.056205004550847 },
-        "category": "Restaurants",
-        "address": "Rumeli Hisarı, Yahya Kemal Cd. No:4, 34470 Sarıyer\/istanbul, Turkiye",
-        "image_name": "kiss_the_frog"
+      "address": "Harbiye, Cumhuriyet Cd. No:50, 34367 sisli/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "hilton_istanbul_bosphorus",
+      "label": "Hilton Istanbul Bosphorus",
+      "lat": 41.0453637450878,
+      "lon": 28.9892313338993
     },
     {
-        "label": "Nusr Et Steakhouse",
-        "position": { "lat": 41.0500020766643, "lng": 28.9930639743148 },
-        "category": "Restaurants",
-        "address": "Harbiye, Macka Palas, Macka Cd. No:33\/B, 34367 sisli\/istanbul, Turkiye",
-        "image_name": "nusr_et_steakhouse"
+      "address": "No:28, cıragan Cd., 34349 Besiktas/istanbul, Turkiye",
+      "category": "Hotel",
+      "image_name": "four_seasons_hotel_istanbul",
+      "label": "Four Seasons Hotel Istanbul",
+      "lat": 41.0438278245504,
+      "lon": 29.0132931366164
     },
     {
-        "label": "CznBurak",
-        "position": { "lat": 41.080718181825, "lng": 29.0183546581472 },
-        "category": "Restaurants",
-        "address": "Nispetiye Caddesi, Lavinya Sk. No: 2, 34340 Besiktas\/istanbul, Turkiye",
-        "image_name": "cznburak"
+      "address": "Kurucesme, Muallim Naci Cd. No:58, 34345 Besiktas/istanbul, Turkiye",
+      "category": "Club",
+      "image_name": "oligark_istanbul",
+      "label": "Oligark Istanbul",
+      "lat": 41.0581069192775,
+      "lon": 29.0336860404319
     },
     {
-        "label": "Conrad Istanbul Bosphorus",
-        "position": { "lat": 41.0483584703725, "lng": 29.0092474423249 },
-        "category": "Hotel",
-        "address": "Cihannuma, Saray Cd No:5, 34353 Besiktas\/istanbul, Turkiye",
-        "image_name": "conrad_istanbul_bosphorus"
+      "address": "Kurucesme, Muallim Naci Cd. No:54, 34345 Besiktas/istanbul, Turkiye",
+      "category": "Club",
+      "image_name": "sortie_club",
+      "label": "Sortie Club",
+      "lat": 41.0534146419674,
+      "lon": 29.0345563250643
     },
     {
-        "label": "Swissotel The Bosphorus Istanbul",
-        "position": { "lat": 41.0420710409361, "lng": 28.9977036075985 },
-        "category": "Hotel",
-        "address": "Visnezade, Acısu Sokagi No:19, 34357 Besiktas\/istanbul, Turkiye",
-        "image_name": "swissotel_the_bosphorus_istanbul"
+      "address": "Tomtom Mah. istiklal Cad. No:163 K: 8, 34433 Beyoglu/istanbul, Turkiye",
+      "category": "Club",
+      "image_name": "360_istanbul",
+      "label": "360 Istanbul",
+      "lat": 41.0331661790545,
+      "lon": 28.9769090069631
     },
     {
-        "label": "Radisson Blu Hotel",
-        "position": { "lat": 41.0654863889257, "lng": 28.9868269476093 },
-        "category": "Hotel",
-        "address": "19 Mayıs, 19 Mayıs Cd. Street No 2, 34360 sisli\/istanbul, Turkiye",
-        "image_name": "radisson_blu_hotel"
+      "address": "Yıldız, Ortakoy Salhanesi Sk. No:5, 34349 Besiktas/istanbul, Turkiye",
+      "category": "Club",
+      "image_name": "ruby",
+      "label": "Ruby",
+      "lat": 41.0478292920139,
+      "lon": 29.024966025917
     },
     {
-        "label": "Hilton Istanbul Bomonti",
-        "position": { "lat": 41.0618413008239, "lng": 28.9789379056639 },
-        "category": "Hotel",
-        "address": "Merkez, Silahsor Cd. No:42, 34381 sisli\/istanbul, Turkiye",
-        "image_name": "hilton_istanbul_bomonti"
+      "address": "Harbiye, Cebel Topu Sk. No:4, 34373 sisli/istanbul, Turkiye",
+      "category": "Club",
+      "image_name": "klein_harbiye",
+      "label": "Klein Harbiye",
+      "lat": 41.0459560850473,
+      "lon": 28.9856913466314
     },
     {
-        "label": "AJWA Sultanahmet",
-        "position": { "lat": 41.0088220062125, "lng": 28.9684398155033 },
-        "category": "Hotel",
-        "address": "Emin Sinan, Piyer Loti Cd. No:30, 34126 Fatih\/istanbul, Turkiye",
-        "image_name": "ajwa_sultanahmet"
+      "address": "Merkez, Silahsor Caddesi & Birahane Sokak Tarihi Bomonti Bira Fabrikası No:1, 34384 sisli/istanbul, Turkiye",
+      "category": "Club",
+      "image_name": "babylon_bomonti",
+      "label": "Babylon Bomonti",
+      "lat": 41.0584167998496,
+      "lon": 28.9799198309059
     },
     {
-        "label": "Grand Hyatt Istanbul",
-        "position": { "lat": 41.0460378537306, "lng": 28.991366151187 },
-        "category": "Hotel",
-        "address": "Harbiye, Taskısla Cd. No:1, 34367 sisli\/istanbul, Turkiye",
-        "image_name": "grand_hyatt_istanbul"
+      "address": "Maslak, Ataturk Sanayi Sitesi 1. Kısım 43. Sk. 52. Sokak, 34385 Besiktas/istanbul, Turkiye",
+      "category": "Club",
+      "image_name": "club_xlarge_istanbul",
+      "label": "Club XLarge Istanbul",
+      "lat": 41.1187737642446,
+      "lon": 29.0229291598282
     },
     {
-        "label": "Crowne Plaza Istanbul",
-        "position": { "lat": 41.0558991695374, "lng": 28.9868241484401 },
-        "category": "Hotel",
-        "address": "Bozkurt, Dolapdere Cd. No:161, 34375 sisli\/istanbul, Turkiye",
-        "image_name": "crowne_plaza_istanbul"
+      "address": "Bereketzade, Galata Kulesi Sk. No:8, 34421 Beyoglu/istanbul, Turkiye",
+      "category": "Club",
+      "image_name": "nardis_jazz_club",
+      "label": "Nardis Jazz Club",
+      "lat": 41.0259436103705,
+      "lon": 28.9738207259221
     },
     {
-        "label": "The Ritz-Carlton",
-        "position": { "lat": 41.0402432445864, "lng": 28.9922111577251 },
-        "category": "Hotel",
-        "address": "Suzer Plaza Askerocagi Caddessi, Elmadag Cd. No:6, 34367 sisli\/istanbul, Turkiye",
-        "image_name": "the_ritz-carlton"
+      "address": "Sultanahmet Mah At Meydani Caddesi No 7 34122/Istanbul",
+      "category": "Mosque",
+      "image_name": "sultanahmet",
+      "label": "Sultanahmet",
+      "lat": 41.0085852193206,
+      "lon": 28.9776168284303
     },
     {
-        "label": "Sheraton Istanbul City Center",
-        "position": { "lat": 41.043069342654, "lng": 28.9759878857917 },
-        "category": "Hotel",
-        "address": "Hacıahmet, Kurtulus Deresi Cd. No:23, 34440 Beyoglu\/istanbul, Turkiye",
-        "image_name": "sheraton_istanbul_city_center"
+      "address": "Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "hagia_sophia_mosque",
+      "label": "Hagia Sophia Mosque",
+      "lat": 41.0088501713352,
+      "lon": 28.9801750000059
     },
     {
-        "label": "Hilton Istanbul Bosphorus",
-        "position": { "lat": 41.0453637450878, "lng": 28.9892313338993 },
-        "category": "Hotel",
-        "address": "Harbiye, Cumhuriyet Cd. No:50, 34367 sisli\/istanbul, Turkiye",
-        "image_name": "hilton_istanbul_bosphorus"
+      "address": "Suleymaniye, Prof. Sıddık Sami Onar Cd. No:1, 34116 Fatih/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "suleymaniye_mosque",
+      "label": "Suleymaniye Mosque",
+      "lat": 41.0172986821097,
+      "lon": 28.9638394744867
     },
     {
-        "label": "Four Seasons Hotel Istanbul",
-        "position": { "lat": 41.0438278245504, "lng": 29.0132931366164 },
-        "category": "Hotel",
-        "address": "No:28, cıragan Cd., 34349 Besiktas\/istanbul, Turkiye",
-        "image_name": "four_seasons_hotel_istanbul"
+      "address": "Eyup Merkez, 34050 Eyupsultan/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "eyup_sultan_mosque",
+      "label": "Eyup Sultan Mosque",
+      "lat": 41.0481832816699,
+      "lon": 28.9339633362421
     },
     {
-        "label": "Oligark Istanbul",
-        "position": { "lat": 41.0581069192775, "lng": 29.0336860404319 },
-        "category": "Club",
-        "address": "Kurucesme, Muallim Naci Cd. No:58, 34345 Besiktas\/istanbul, Turkiye",
-        "image_name": "oligark_istanbul"
+      "address": "Mecidiye, Mecidiye Koprusu Sk. No:1 D:1, 34347 Besiktas/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "ortakoy_mosque",
+      "label": "Ortakoy Mosque",
+      "lat": 41.0472960135152,
+      "lon": 29.0269799865446
     },
     {
-        "label": "Sortie Club",
-        "position": { "lat": 41.0534146419674, "lng": 29.0345563250643 },
-        "category": "Club",
-        "address": "Kurucesme, Muallim Naci Cd. No:54, 34345 Besiktas\/istanbul, Turkiye",
-        "image_name": "sortie_club"
+      "address": "Beyazıt, Yeniceriler Cd., 34126 Fatih/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "beyazit_mosque",
+      "label": "Beyazit Mosque",
+      "lat": 41.0114110487753,
+      "lon": 28.9654278780508
     },
     {
-        "label": "360 Istanbul",
-        "position": { "lat": 41.0331661790545, "lng": 28.9769090069631 },
-        "category": "Club",
-        "address": "Tomtom Mah. istiklal Cad. No:163 K: 8, 34433 Beyoglu\/istanbul, Turkiye",
-        "image_name": "360_istanbul"
+      "address": "Kucuk Ayasofya, 34122 Fatih/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "sokullu_mehmet_pasa_mosque",
+      "label": "Sokullu Mehmet Pasa Mosque",
+      "lat": 41.0081005329688,
+      "lon": 28.9723909490571
     },
     {
-        "label": "Ruby",
-        "position": { "lat": 41.0478292920139, "lng": 29.024966025917 },
-        "category": "Club",
-        "address": "Yıldız, Ortakoy Salhanesi Sk. No:5, 34349 Besiktas\/istanbul, Turkiye",
-        "image_name": "ruby"
+      "address": "Ali Kuscu, Hattat Nafiz Caddesi No:6, 34083 Fatih/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "fatih_mosque",
+      "label": "Fatih Mosque",
+      "lat": 41.0215772360661,
+      "lon": 28.9499232246283
     },
     {
-        "label": "Klein Harbiye",
-        "position": { "lat": 41.0459560850473, "lng": 28.9856913466314 },
-        "category": "Club",
-        "address": "Harbiye, Cebel Topu Sk. No:4, 34373 sisli\/istanbul, Turkiye",
-        "image_name": "klein_harbiye"
+      "address": "Kalenderhane, 34134 Fatih/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "sehzade_mosque",
+      "label": "Sehzade Mosque",
+      "lat": 41.0151045099638,
+      "lon": 28.9564797021611
     },
     {
-        "label": "Babylon Bomonti",
-        "position": { "lat": 41.0584167998496, "lng": 28.9799198309059 },
-        "category": "Club",
-        "address": "Merkez, Silahsor Caddesi & Birahane Sokak Tarihi Bomonti Bira Fabrikası No:1, 34384 sisli\/istanbul, Turkiye",
-        "image_name": "babylon_bomonti"
+      "address": "Kalenderhane, 16 Mart sehitleri Cd. No:11, 34134 Fatih/istanbul, Turkiye",
+      "category": "Mosque",
+      "image_name": "kalenderhane_mosque",
+      "label": "Kalenderhane Mosque",
+      "lat": 41.0132765064515,
+      "lon": 28.9603927711494
     },
     {
-        "label": "Club XLarge Istanbul",
-        "position": { "lat": 41.1187737642446, "lng": 29.0229291598282 },
-        "category": "Club",
-        "address": "Maslak, Ataturk Sanayi Sitesi 1. Kısım 43. Sk. 52. Sokak, 34385 Besiktas\/istanbul, Turkiye",
-        "image_name": "club_xlarge_istanbul"
+      "address": "Ziya Gokalp, 34490 Basaksehir/istanbul, Turkiye",
+      "category": "Sport",
+      "image_name": "ataturk_olympic_stadium",
+      "label": "Ataturk Olympic Stadium",
+      "lat": 41.0863008114474,
+      "lon": 28.7651257175981
     },
     {
-        "label": "Nardis Jazz Club",
-        "position": { "lat": 41.0259436103705, "lng": 28.9738207259221 },
-        "category": "Club",
-        "address": "Bereketzade, Galata Kulesi Sk. No:8, 34421 Beyoglu\/istanbul, Turkiye",
-        "image_name": "nardis_jazz_club"
+      "address": "Huzur Mh., Metin Oktay Caddesi, 34386 Sarıyer/istanbul, Turkiye",
+      "category": "Sport",
+      "image_name": "rams_park",
+      "label": "Rams Park",
+      "lat": 41.1043731444306,
+      "lon": 28.991671183198
     },
     {
-        "label": "Sultanahmet",
-        "position": { "lat": 41.0085852193206, "lng": 28.9776168284303 },
-        "category": "Mosque",
-        "address": "Sultanahmet Mah At Meydani Caddesi No 7 34122\/Istanbul",
-        "image_name": "sultanahmet"
+      "address": "sukru Saracoglu Stadyumu, Bagdat Cad, Kızıltoprak, No:2, 34724 Kadıkoy/istanbul, Turkiye",
+      "category": "Sport",
+      "image_name": "kadikoy_fenerbahce_stadium",
+      "label": "Kadikoy Fenerbahce Stadium",
+      "lat": 40.9920392840556,
+      "lon": 29.0384613529876
     },
     {
-        "label": "Hagia Sophia Mosque",
-        "position": { "lat": 41.0088501713352, "lng": 28.9801750000059 },
-        "category": "Mosque",
-        "address": "Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih\/istanbul, Turkiye",
-        "image_name": "hagia_sophia_mosque"
+      "address": "Basak, 4.Etap Fatih Teri̇m Stadı Basaksehir, Yunus Emre Cd., 34480 Basaksehir/istanbul, Turkiye",
+      "category": "Sport",
+      "image_name": "basaksehir_fatih_terim_stadium",
+      "label": "Basaksehir Fatih Terim Stadium",
+      "lat": 41.1310945191899,
+      "lon": 28.8086109703565
     },
     {
-        "label": "Suleymaniye Mosque",
-        "position": { "lat": 41.0172986821097, "lng": 28.9638394744867 },
-        "category": "Mosque",
-        "address": "Suleymaniye, Prof. Sıddık Sami Onar Cd. No:1, 34116 Fatih\/istanbul, Turkiye",
-        "image_name": "suleymaniye_mosque"
+      "address": "Visnezade, Dolmabahce Cd. No:1, 34357 Besiktas/istanbul, Turkiye",
+      "category": "Sport",
+      "image_name": "besiktas_vodafone_arena_stadium",
+      "label": "Besiktas Vodafone Arena Stadium",
+      "lat": 41.0394953234552,
+      "lon": 28.994341871133
     },
     {
-        "label": "Eyup Sultan Mosque",
-        "position": { "lat": 41.0481832816699, "lng": 28.9339633362421 },
-        "category": "Mosque",
-        "address": "Eyup Merkez, 34050 Eyupsultan\/istanbul, Turkiye",
-        "image_name": "eyup_sultan_mosque"
+      "address": "Barbaros Mah, Ihlamur Bv, 34746 Atasehir/istanbul, Turkiye",
+      "category": "Sport",
+      "image_name": "ulker_sports_arena",
+      "label": "Ulker Sports Arena",
+      "lat": 40.9971173515693,
+      "lon": 29.1057765765643
     },
     {
-        "label": "Ortakoy Mosque",
-        "position": { "lat": 41.0472960135152, "lng": 29.0269799865446 },
-        "category": "Mosque",
-        "address": "Mecidiye, Mecidiye Koprusu Sk. No:1 D:1, 34347 Besiktas\/istanbul, Turkiye",
-        "image_name": "ortakoy_mosque"
+      "address": "Yesilkoy, Istanbul Fuar Merkezi, 34149 Bakırkoy/istanbul, Turkiye",
+      "category": "Exhibition_Center",
+      "image_name": "istanbul_expo_centre__hals",
+      "label": "Istanbul Expo Centre  Hals",
+      "lat": 40.9915839683582,
+      "lon": 28.8262498667363
     },
     {
-        "label": "Beyazit Mosque",
-        "position": { "lat": 41.0114110487753, "lng": 28.9654278780508 },
-        "category": "Mosque",
-        "address": "Beyazıt, Yeniceriler Cd., 34126 Fatih\/istanbul, Turkiye",
-        "image_name": "beyazit_mosque"
+      "address": "Cumhuriyet Mah Eski Cumhuriyet, Hadımkoy Yolu Cd No:9 D:1, 34500 Buyukcekmece/istanbul, Turkiye",
+      "category": "Exhibition_Center",
+      "image_name": "tuyap_fair",
+      "label": "Tuyap Fair",
+      "lat": 41.0385486154906,
+      "lon": 28.6277328618794
     },
     {
-        "label": "Sokullu Mehmet Pasa Mosque",
-        "position": { "lat": 41.0081005329688, "lng": 28.9723909490571 },
-        "category": "Mosque",
-        "address": "Kucuk Ayasofya, 34122 Fatih\/istanbul, Turkiye",
-        "image_name": "sokullu_mehmet_pasa_mosque"
+      "address": "Mahmutbey, iSTOc 12. Kapı, 34100 Bagcılar/istanbul, Turkiye",
+      "category": "Exhibition_Center",
+      "image_name": "istoc_dunya_ticaret_merkezi",
+      "label": "Istoc Dunya Ticaret Merkezi",
+      "lat": 41.0706023291139,
+      "lon": 28.8320237883417
     },
     {
-        "label": "Fatih Mosque",
-        "position": { "lat": 41.0215772360661, "lng": 28.9499232246283 },
-        "category": "Mosque",
-        "address": "Ali Kuscu, Hattat Nafiz Caddesi No:6, 34083 Fatih\/istanbul, Turkiye",
-        "image_name": "fatih_mosque"
+      "address": "Kucukbakkalkoy, Dudullu Yolu Cad. Silence istanbul Hotel & Convention Center No:29, 34750 Atasehir/istanbul, Turkiye",
+      "category": "Exhibition_Center",
+      "image_name": "saturn_conference_hall",
+      "label": "Saturn Conference Hall",
+      "lat": 40.9837252810612,
+      "lon": 29.1330807182171
     },
     {
-        "label": "Sehzade Mosque",
-        "position": { "lat": 41.0151045099638, "lng": 28.9564797021611 },
-        "category": "Mosque",
-        "address": "Kalenderhane, 34134 Fatih\/istanbul, Turkiye",
-        "image_name": "sehzade_mosque"
+      "address": "Harbiye, Darulbedai Cd. No:3, 34367 sisli/istanbul, Turkiye",
+      "category": "Exhibition_Center",
+      "image_name": "istanbul_congress_center",
+      "label": "Istanbul Congress Center",
+      "lat": 41.0499461266926,
+      "lon": 28.9896607231979
     },
     {
-        "label": "Kalenderhane Mosque",
-        "position": { "lat": 41.0132765064515, "lng": 28.9603927711494 },
-        "category": "Mosque",
-        "address": "Kalenderhane, 16 Mart sehitleri Cd. No:11, 34134 Fatih\/istanbul, Turkiye",
-        "image_name": "kalenderhane_mosque"
+      "address": "Fulya, Torun Center, Buyukdere Cd. No:74, 34394 sisli/istanbul, Turkiye",
+      "category": "Exhibition_Center",
+      "image_name": "expotim_international_fair_organizations",
+      "label": "Expotim International Fair Organizations",
+      "lat": 41.0636590009394,
+      "lon": 29.0016697247446
     },
     {
-        "label": "Ataturk Olympic Stadium",
-        "position": { "lat": 41.0863008114474, "lng": 28.7651257175981 },
-        "category": "Sport",
-        "address": "Ziya Gokalp, 34490 Basaksehir\/istanbul, Turkiye",
-        "image_name": "ataturk_olympic_stadium"
+      "address": "Tayakadın, Terminal Caddesi No:1, 34283 Arnavutkoy/istanbul, Turkiye",
+      "category": "Airport",
+      "image_name": "istanbul_airport",
+      "label": "Istanbul Airport",
+      "lat": 41.2612695318867,
+      "lon": 28.7427329238102
     },
     {
-        "label": "Rams Park",
-        "position": { "lat": 41.1043731444306, "lng": 28.991671183198 },
-        "category": "Sport",
-        "address": "Huzur Mh., Metin Oktay Caddesi, 34386 Sarıyer\/istanbul, Turkiye",
-        "image_name": "rams_park"
+      "address": "Sanayi, 34906 Pendik/istanbul, Turkiye",
+      "category": "Airport",
+      "image_name": "sabiha_gokcen_airport",
+      "label": "Sabiha Gokcen Airport",
+      "lat": 40.908606252421,
+      "lon": 29.3165843021768
     },
     {
-        "label": "Kadikoy Fenerbahce Stadium",
-        "position": { "lat": 40.9920392840556, "lng": 29.0384613529876 },
-        "category": "Sport",
-        "address": "sukru Saracoglu Stadyumu, Bagdat Cad, Kızıltoprak, No:2, 34724 Kadıkoy\/istanbul, Turkiye",
-        "image_name": "kadikoy_fenerbahce_stadium"
+      "address": "Yesilkoy, 34149 Bakırkoy/istanbul, Turkiye",
+      "category": "Airport",
+      "image_name": "ataturk_airport",
+      "label": "Ataturk Airport",
+      "lat": 40.9831426275521,
+      "lon": 28.8104854214842
     },
     {
-        "label": "Basaksehir Fatih Terim Stadium",
-        "position": { "lat": 41.1310945191899, "lng": 28.8086109703565 },
-        "category": "Sport",
-        "address": "Basak, 4.Etap Fatih Teri̇m Stadı Basaksehir, Yunus Emre Cd., 34480 Basaksehir\/istanbul, Turkiye",
-        "image_name": "basaksehir_fatih_terim_stadium"
+      "address": "Atakent Kucukcekmece/istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "atakent",
+      "label": "Atakent",
+      "lat": 41.0555515705064,
+      "lon": 28.7753435362354
     },
     {
-        "label": "Besiktas Vodafone Arena Stadium",
-        "position": { "lat": 41.0394953234552, "lng": 28.994341871133 },
-        "category": "Sport",
-        "address": "Visnezade, Dolmabahce Cd. No:1, 34357 Besiktas\/istanbul, Turkiye",
-        "image_name": "besiktas_vodafone_arena_stadium"
+      "address": "Basaksehir Basak 34480 Basaksehir/istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "basaksehir",
+      "label": "Basaksehir",
+      "lat": 41.0841406773984,
+      "lon": 28.8166669472349
     },
     {
-        "label": "Ulker Sports Arena",
-        "position": { "lat": 40.9971173515693, "lng": 29.1057765765643 },
-        "category": "Sport",
-        "address": "Barbaros Mah, Ihlamur Bv, 34746 Atasehir\/istanbul, Turkiye",
-        "image_name": "ulker_sports_arena"
-    },
-    {
-        "label": "Istanbul Expo Centre  Hals",
-        "position": { "lat": 40.9915839683582, "lng": 28.8262498667363 },
-        "category": "Exhibition_Center",
-        "address": "Yesilkoy, Istanbul Fuar Merkezi, 34149 Bakırkoy\/istanbul, Turkiye",
-        "image_name": "istanbul_expo_centre__hals"
-    },
-    {
-        "label": "Tuyap Fair",
-        "position": { "lat": 41.0385486154906, "lng": 28.6277328618794 },
-        "category": "Exhibition_Center",
-        "address": "Cumhuriyet Mah Eski Cumhuriyet, Hadımkoy Yolu Cd No:9 D:1, 34500 Buyukcekmece\/istanbul, Turkiye",
-        "image_name": "tuyap_fair"
-    },
-    {
-        "label": "Istoc Dunya Ticaret Merkezi",
-        "position": { "lat": 41.0706023291139, "lng": 28.8320237883417 },
-        "category": "Exhibition_Center",
-        "address": "Mahmutbey, iSTOc 12. Kapı, 34100 Bagcılar\/istanbul, Turkiye",
-        "image_name": "istoc_dunya_ticaret_merkezi"
-    },
-    {
-        "label": "Saturn Conference Hall",
-        "position": { "lat": 40.9837252810612, "lng": 29.1330807182171 },
-        "category": "Exhibition_Center",
-        "address": "Kucukbakkalkoy, Dudullu Yolu Cad. Silence istanbul Hotel & Convention Center No:29, 34750 Atasehir\/istanbul, Turkiye",
-        "image_name": "saturn_conference_hall"
-    },
-    {
-        "label": "Istanbul Congress Center",
-        "position": { "lat": 41.0499461266926, "lng": 28.9896607231979 },
-        "category": "Exhibition_Center",
-        "address": "Harbiye, Darulbedai Cd. No:3, 34367 sisli\/istanbul, Turkiye",
-        "image_name": "istanbul_congress_center"
-    },
-    {
-        "label": "Expotim International Fair Organizations",
-        "position": { "lat": 41.0636590009394, "lng": 29.0016697247446 },
-        "category": "Exhibition_Center",
-        "address": "Fulya, Torun Center, Buyukdere Cd. No:74, 34394 sisli\/istanbul, Turkiye",
-        "image_name": "expotim_international_fair_organizations"
-    },
-    {
-        "label": "Istanbul Airport",
-        "position": { "lat": 41.2612695318867, "lng": 28.7427329238102 },
-        "category": "Airport",
-        "address": "Tayakadın, Terminal Caddesi No:1, 34283 Arnavutkoy\/istanbul, Turkiye",
-        "image_name": "istanbul_airport"
-    },
-    {
-        "label": "Sabiha Gokcen Airport",
-        "position": { "lat": 40.908606252421, "lng": 29.3165843021768 },
-        "category": "Airport",
-        "address": "Sanayi, 34906 Pendik\/istanbul, Turkiye",
-        "image_name": "sabiha_gokcen_airport"
-    },
-    {
-        "label": "Ataturk Airport",
-        "position": { "lat": 40.9831426275521, "lng": 28.8104854214842 },
-        "category": "Airport",
-        "address": "Yesilkoy, 34149 Bakırkoy\/istanbul, Turkiye",
-        "image_name": "ataturk_airport"
-    },
-    {
-        "label": "Atakent",
-        "position": { "lat": 41.0555515705064, "lng": 28.7753435362354 },
-        "category": "Close_By_Districts",
-        "address": "Atakent Kucukcekmece\/istanbul Turkiye",
-        "image_name": "atakent"
-    },
-    {
-        "label": "Basaksehir",
-        "position": { "lat": 41.0841406773984, "lng": 28.8166669472349 },
-        "category": "Close_By_Districts",
-        "address": "Basaksehir Basak 34480 Basaksehir\/istanbul Turkiye",
-        "image_name": "basaksehir"
-    },
-    {
-        "label": "Buyukcekmece",
-        "position": { "lat": 41.0080889072636, "lng": 28.5341318764264 },
-        "category": "Close_By_Districts",
-        "address": "Buyukcekmece istanbul Turkiye",
-        "image_name": "buyukcekmece"
-    },
-    {
-        "label": "Bahcesehir",
-        "position": { "lat": 41.0795398009004, "lng": 28.6878480937493 },
-        "category": "Close_By_Districts",
-        "address": "Bahcesehir Basaksehir\/istanbul Turkiye",
-        "image_name": "bahcesehir"
-    },
-    {
-        "label": "Fatih",
-        "position": { "lat": 41.0205986563064, "lng": 28.9349095169048 },
-        "category": "Close_By_Districts",
-        "address": "Fatih istanbul Turkiye",
-        "image_name": "fatih"
-    },
-    {
-        "label": "Taksim",
-        "position": { "lat": 41.0378429173848, "lng": 28.9852633085729 },
-        "category": "Close_By_Districts",
-        "address": "Taksim Square Taksim Meydanı sehit Muhtar 34435 Beyoglu\/istanbul Turkiye",
-        "image_name": "taksim"
-    },
-    {
-        "label": "Beylikduzu",
-        "position": { "lat": 40.9927781107209, "lng": 28.6408066934352 },
-        "category": "Close_By_Districts",
-        "address": "Beylikduzu istanbul Turkiye",
-        "image_name": "beylikduzu"
-    },
-    {
-        "label": "Uskudar",
-        "position": { "lat": 41.0326659107692, "lng": 29.0304826925528 },
-        "category": "Close_By_Districts",
-        "address": "uskudar istanbul Turkiye",
-        "image_name": "uskudar"
-    },
-    {
-        "label": "Eminonu",
-        "position": { "lat": 41.014979765947, "lng": 28.9647014152147 },
-        "category": "Close_By_Districts",
-        "address": "Eminonu Rustem Pasa Fatih\/istanbul Turkiye",
-        "image_name": "eminonu"
-    },
-    {
-        "label": "Karakoy",
-        "position": { "lat": 41.0238491530743, "lng": 28.9767084775278 },
-        "category": "Close_By_Districts",
-        "address": "Karakoy Mueyyedzade Beyoglu\/istanbul Turkiye",
-        "image_name": "karakoy"
-    },
-    {
-        "label": "Nisantasi",
-        "position": { "lat": 41.0489447150732, "lng": 28.9917940135421 },
-        "category": "Close_By_Districts",
-        "address": "Nisantası Tesvikiye sisli\/istanbul Turkiye",
-        "image_name": "nisantasi"
-    },
-    {
-        "label": "Fatih Sultan Mehmet Bridge",
-        "position": { "lat": 41.0915033725729, "lng": 29.0614032748794 },
-        "category": "Way_To_Asia",
-        "address": "Anadolu Hisarı, 34000 Beykoz\/istanbul, Turkiye",
-        "image_name": "fatih_sultan_mehmet_bridge"
-    },
-    {
-        "label": "Yavuz Sultan Selim Bridge",
-        "position": { "lat": 41.2039961761741, "lng": 29.1123934106415 },
-        "category": "Way_To_Asia",
-        "address": "Poyraz, 34829 Beykoz\/istanbul, Turkiye",
-        "image_name": "yavuz_sultan_selim_bridge"
-    },
-    {
-        "label": "15 July Martyrs Bridge",
-        "position": { "lat": 41.0462551569512, "lng": 29.0343421914369 },
-        "category": "Way_To_Asia",
-        "address": "Kuzguncuk, 15 Temmuz sehitler Koprusu, 34000 uskudar\/istanbul, Turkiye",
-        "image_name": "15_july_martyrs_bridge"
-    },
-    {
-        "label": "Eurasia Tunnel",
-        "position": { "lat": 41.00582710911777, "lng": 28.99881445767243 },
-        "category": "Way_To_Asia",
-        "address": "Turkiye",
-        "image_name": "eurasia_tunnel"
+      "address": "Buyukcekmece istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "buyukcekmece",
+      "label": "Buyukcekmece",
+      "lat": 41.0080889072636,
+      "lon": 28.5341318764264
+    },
+    {
+      "address": "Bahcesehir Basaksehir/istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "bahcesehir",
+      "label": "Bahcesehir",
+      "lat": 41.0795398009004,
+      "lon": 28.6878480937493
+    },
+    {
+      "address": "Fatih istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "fatih",
+      "label": "Fatih",
+      "lat": 41.0205986563064,
+      "lon": 28.9349095169048
+    },
+    {
+      "address": "Taksim Square Taksim Meydanı sehit Muhtar 34435 Beyoglu/istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "taksim",
+      "label": "Taksim",
+      "lat": 41.0378429173848,
+      "lon": 28.9852633085729
+    },
+    {
+      "address": "Beylikduzu istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "beylikduzu",
+      "label": "Beylikduzu",
+      "lat": 40.9927781107209,
+      "lon": 28.6408066934352
+    },
+    {
+      "address": "uskudar istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "uskudar",
+      "label": "Uskudar",
+      "lat": 41.0326659107692,
+      "lon": 29.0304826925528
+    },
+    {
+      "address": "Eminonu Rustem Pasa Fatih/istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "eminonu",
+      "label": "Eminonu",
+      "lat": 41.014979765947,
+      "lon": 28.9647014152147
+    },
+    {
+      "address": "Karakoy Mueyyedzade Beyoglu/istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "karakoy",
+      "label": "Karakoy",
+      "lat": 41.0238491530743,
+      "lon": 28.9767084775278
+    },
+    {
+      "address": "Nisantası Tesvikiye sisli/istanbul Turkiye",
+      "category": "Close_By_Districts",
+      "image_name": "nisantasi",
+      "label": "Nisantasi",
+      "lat": 41.0489447150732,
+      "lon": 28.9917940135421
+    },
+    {
+      "address": "Anadolu Hisarı, 34000 Beykoz/istanbul, Turkiye",
+      "category": "Way_To_Asia",
+      "image_name": "fatih_sultan_mehmet_bridge",
+      "label": "Fatih Sultan Mehmet Bridge",
+      "lat": 41.0915033725729,
+      "lon": 29.0614032748794
+    },
+    {
+      "address": "Poyraz, 34829 Beykoz/istanbul, Turkiye",
+      "category": "Way_To_Asia",
+      "image_name": "yavuz_sultan_selim_bridge",
+      "label": "Yavuz Sultan Selim Bridge",
+      "lat": 41.2039961761741,
+      "lon": 29.1123934106415
+    },
+    {
+      "address": "Kuzguncuk, 15 Temmuz sehitler Koprusu, 34000 uskudar/istanbul, Turkiye",
+      "category": "Way_To_Asia",
+      "image_name": "15_july_martyrs_bridge",
+      "label": "15 July Martyrs Bridge",
+      "lat": 41.0462551569512,
+      "lon": 29.0343421914369
+    },
+    {
+      "address": "Turkiye",
+      "category": "Way_To_Asia",
+      "image_name": "eurasia_tunnel",
+      "label": "Eurasia Tunnel",
+      "lat": 41.00582710911777,
+      "lon": 28.99881445767243
     }
-]
+  ]
